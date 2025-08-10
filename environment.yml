@@ -369,7 +369,6 @@ dependencies:
   - pysocks=1.7.1=py313haa95532_0
   - pytables=3.10.2=py313h0217527_2
   - pytest=8.3.4=py313haa95532_0
-  - python=3.10=h286a616_100_cp313
   - python-dateutil=2.9.0post0=py313haa95532_2
   - python-dotenv=1.1.0=py313haa95532_0
   - python-fastjsonschema=2.20.0=py313haa95532_0
@@ -524,4 +523,5 @@ dependencies:
   - zstandard=0.23.0=py313h4fc1ca9_1
   - zstd=1.5.6=h8880b57_0
 prefix: C:\Users\RdmWe\anaconda3
+
 
